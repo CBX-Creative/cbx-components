@@ -1,0 +1,17 @@
+{
+  "name": "cbx-components",
+  "version": "0.0.1",
+  "description": "",
+  "author": "",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "keywords": [],
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.7.3",
+    "@types/node": "^22.10.10"
+  }
+}
